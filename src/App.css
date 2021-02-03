@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+  background:url("https://img.freepik.com/vecteurs-libre/abstrait-degrade-gris-blanc_53876-60238.jpg?size=338&ext=jpg")center fixed;
+  background-size: cover;
+  background-blend-mode: screen;
+
+}
+
+
+/* style the navbar  */
+
+      .mr-auto :hover  {
+  background-color:#17a2b8 !important;
+}
+
+
+.mr-auto{
+  text-transform: uppercase !important;
+  font-weight: bold;
+  letter-spacing: 2px !important;
+
+}
+
+
+/* style the main page */
+
+.myList{
+  width: 100%;
+}
+
+
+hr{
+  border-top: 2px dashed blue;
+}
+
+
+.personelInfo{
+  list-style: none;
+  font-family: Verdana, sans-serif;
+  font-size: 20px;
+  font-style:oblique;
+
+
+}
+
+
+
+.myInfo{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.labrery{
+  display: flex;
+  
+  justify-content: space-around;
+  align-items: space-around;
+
+}
+
